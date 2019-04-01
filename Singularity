@@ -16,4 +16,6 @@ pip install torchvision \
         scikit-learn \
         jupyter \
         jupyterlab \
-        spyder 
+        spyder \
+        ipython \
+        matplotlib
