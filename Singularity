@@ -18,4 +18,10 @@ pip install torchvision \
         jupyterlab \
         spyder \
         ipython \
-        matplotlib
+        matplotlib \
+        seaborn \
+        scikit-image \
+        bokeh \
+        plotly \
+        pillow \
+        opencv-python
