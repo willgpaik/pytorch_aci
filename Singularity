@@ -8,7 +8,7 @@ yum -y install python36-devel \
 yum -y update
 
 pip3.6 install --upgrade pip
-pip3 install torch==1.3.0+cpu torchvision==0.4.1+cpu -f https://download.pytorch.org/whl/torch_stable.html
+pip3 install https://download.pytorch.org/whl/cpu/torch-1.3.0%2Bcpu-cp36-cp36m-linux_x86_64.whl
 pip install torchvision \
         torchsummary \
         scipy \
