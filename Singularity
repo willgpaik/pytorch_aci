@@ -22,4 +22,9 @@ pip install torchvision \
         bokeh \
         plotly \
         pillow \
-        opencv-python
+        opencv-python \
+        torch-geometric \
+        geometric \
+        networkx \
+        tensorboardx
+        
