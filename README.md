@@ -25,3 +25,10 @@ opencv-python
 
 2019/10/16  
 Pytorch is upgraded to 1.3.0
+
+2019/12/8  
+**Added Packages:**  
+torch-geometric \
+geometric \
+networkx \
+tensorboardx
